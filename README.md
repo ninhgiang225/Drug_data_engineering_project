@@ -21,6 +21,7 @@ This project is a comprehensive system designed to collect, process, and visuali
 ### **Data Visualization**
 - Observes the distribution of data using visualizations like word clouds, pie charts, and more.
 - Displays outputs from data processing for analysis.
+<img width="651" alt="image" src="https://github.com/user-attachments/assets/4294f617-59f3-4f37-bbb6-90a38b6fbe95" />
 
 ## Technologies Used
 - **Programming Languages:** Python
